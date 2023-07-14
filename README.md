@@ -12,16 +12,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<!--PC SPECS-->
-<p align='center'>
-  💻 Workstation<br/>
-  </br>
-  &nbsp;<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  &nbsp;<img src="https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=whit" />
-  &nbsp;<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  &nbsp;<img src="https://img.shields.io/badge/NVIDIA-RTX2070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
 <!--SKILLS-->
 <p align='center'>
   🤵 Skills<br/>
