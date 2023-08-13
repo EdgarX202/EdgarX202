@@ -56,10 +56,8 @@
   &nbsp;&nbsp;- Games Engineering (c++, sfml)
   
   <h4> • Personal 👨‍🎓 </h4>
-  &nbsp;&nbsp;I have interest in C# and Unity gaming engine therefore, in my free time I study C#, .NET and Unity gaming engine.</br>
-  &nbsp;&nbsp;I was focused on 2D game development before however, I have recently moved to 3D games and would like to expand my knowledge</br>
-  &nbsp;&nbsp;in this field.</br>
-  &nbsp;&nbsp;In the future I would like to expand my skillset with AR/VR as well as learn the Unity gaming engine in more depth.</br>
+  &nbsp;&nbsp;I am interested in C# and Unity. Specifically I am learning ML agents and how AI works in games.</br>
+  &nbsp;&nbsp;Currently my focus is on 2D game development however, I am open and eager to learn other areas of game dev.</br>
   
   <h4> • Work 🖥️ </h4>
   &nbsp;&nbsp;No professional work experience.</br>
