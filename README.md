@@ -9,9 +9,11 @@
   </a>&nbsp;&nbsp;
   <a href="https://edgarx33.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;</br>
+  </br>
+   <a href=#><img src="https://komarev.com/ghpvc/?username=EdgarX202&color=red&style=plastic"/>
 </p>
-
+    
 <!--SKILLS-->
 <p align='center'>
   🤵 Skills<br/>
