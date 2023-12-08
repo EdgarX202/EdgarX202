@@ -51,14 +51,14 @@
   <h4> • University 🏫 </h4>
   I have gained basic knowledge in the following areas:</br>
   &nbsp;&nbsp;- Software development (c++, c#)</br>
-  &nbsp;&nbsp;- Algorithms and Data Structures</br>
-  &nbsp;&nbsp;- Project Management (Doing various group projects as a project manager also as a regular team member)</br>
-  &nbsp;&nbsp;- Artificial Intelligence (Mainly learning how neural networks and pathfinding works)</br>
-  &nbsp;&nbsp;- Games Engineering (c++, sfml)
+  &nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
+  &nbsp;&nbsp;- Project Management (Being a project manager as well as a regular team member for various group projects)</br>
+  &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
+  &nbsp;&nbsp;- Games Engineering (c++, c#)
   
   <h4> • Personal 👨‍🎓 </h4>
-  &nbsp;&nbsp;I am interested in C# and Unity. Specifically I am learning ML agents and how AI works in games.</br>
-  &nbsp;&nbsp;Currently my focus is on 2D game development however, I am open and eager to learn other areas of game dev.</br>
+  &nbsp;&nbsp;I have a strong interest in C# and Unity; therefore, I enjoy a challenge and keep improving my skills.</br>
+  &nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
   
   <h4> • Work 🖥️ </h4>
   &nbsp;&nbsp;No professional work experience.</br>
