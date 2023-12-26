@@ -14,7 +14,7 @@
 
 <!--SKILLS-->
 <p align='center'>
-  My Skills</br>
+  Skills</br>
   <br>
   &nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -44,33 +44,31 @@
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdgarX202&theme=dark"/></a>
 </p>
 
-<!--DROPDOWN-->
+<h2>📃 Resume</h2>
+<h3> Education </h3>
+💻 BSc(Hons) Games Development</br>
+📅 2020 - 2024</br>
+📍 Edinburgh Napier University, Scotland, UK</br>
+</br>
+👨‍💻 HND Interactive Media and Design</br>
+📅 2017 - 2019</br>
+📍 Edinburgh College, Scotland, UK</br>
 
-  <h2>📃 Resume</h2>
-  <h3> Education </h3>
-  💻 BSc(Hons) Games Development</br>
-  📅 2020 - 2024</br>
-  📍 Edinburgh Napier University, Scotland, UK</br>
-  </br>
-  👨‍💻 HND Interactive Media and Design</br>
-  📅 2017 - 2019</br>
-  📍 Edinburgh College, Scotland, UK</br>
-  </br>
-  <h3> Experience </h3>
-  <h4> • University 🏫 </h4>
-  I have gained basic knowledge in the following areas:</br>
-  &nbsp;&nbsp;- Software development (c++, c#)</br>
-  &nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
-  &nbsp;&nbsp;- Project Management (Being a project manager as well as a regular team member for various group projects)</br>
-  &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
-  &nbsp;&nbsp;- Games Engineering (c++, c#)
+<h3> Experience </h3>
+<h4> • University 🏫 </h4>
+I have gained basic knowledge in the following areas:</br>
+&nbsp;&nbsp;- Software development (c++, c#)</br>
+&nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
+&nbsp;&nbsp;- Project Management (Being a project manager as well as a regular team member for various group projects)</br>
+&nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
+&nbsp;&nbsp;- Games Engineering (c++, c#)
   
-  <h4> • Personal 👨‍🎓 </h4>
-  &nbsp;&nbsp;I have a strong interest in C# and Unity; therefore, I enjoy a challenge and keep improving my skills.</br>
-  &nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
+<h4> • Personal 👨‍🎓 </h4>
+&nbsp;&nbsp;I have a strong interest in C# and Unity; therefore, I enjoy a challenge and keep improving my skills.</br>
+&nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
   
-  <h4> • Work 🖥️ </h4>
-  &nbsp;&nbsp;No professional work experience.</br>
-  &nbsp;&nbsp;I am looking for an opportunity to an entry/junior level position where I could improve my skills and learn new ones whilst being</br>
-  &nbsp;&nbsp;a great team member and contributing to companies success.</br>
+<h4> • Work 🖥️ </h4>
+&nbsp;&nbsp;No professional work experience.</br>
+&nbsp;&nbsp;I am looking for an opportunity to an entry/junior level position where I could improve my skills and learn new ones whilst being</br>
+&nbsp;&nbsp;a great team member and contributing to companies success.</br>
 
