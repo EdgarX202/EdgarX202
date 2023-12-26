@@ -1,44 +1,54 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave: I'm Edgar :man_technologist:</h1>
 <p align="center"> Games Development student.</p>
-
+  
 <!--SOCIAL MEDIA-->
 <p align="center">
   <a href="https://www.linkedin.com/in/edgar-park-706545b7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://edgarx33.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>&nbsp;&nbsp;</br>
-  </br>
-   <a href=#><img src="https://komarev.com/ghpvc/?username=EdgarX202&color=red&style=plastic"/>
+  </a>&nbsp;</br>
 </p>
-    
+
 <!--SKILLS-->
 <p align='center'>
-  🤵 Skills<br/>
-  </br>
-  &nbsp;<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  Code</br>
   &nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+  &nbsp;<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <br>
+  Graphic Design - Project Management<br>
+  &nbsp;<img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+  &nbsp;<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+  <br>
+  Version Control - OS<br>
+  &nbsp;<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>    
 
 <!--GITHUB STATS-->
 <p align='center'>
+</br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdgarX202&show_icons=true&count_private=true&theme=gruvbox" width="400"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarX202&theme=gruvbox" width="245"/></a>
 </p>
-<!--SUMMARY CARD
+
+<!--SUMMARY CARD-->
 <p align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdgarX202&theme=dark"/></a>
 </p>
--->
 
 <!--DROPDOWN-->
-<details>
-  <summary>📃 Resume</summary>
-  <h2> Education </h2>
+
+  <h2>📃 Resume</h2>
+  <h3> Education </h3>
   💻 BSc(Hons) Games Development</br>
   📅 2020 - 2024</br>
   📍 Edinburgh Napier University, Scotland, UK</br>
@@ -47,7 +57,7 @@
   📅 2017 - 2019</br>
   📍 Edinburgh College, Scotland, UK</br>
   </br>
-  <h2> Experience </h2>
+  <h3> Experience </h3>
   <h4> • University 🏫 </h4>
   I have gained basic knowledge in the following areas:</br>
   &nbsp;&nbsp;- Software development (c++, c#)</br>
@@ -64,4 +74,4 @@
   &nbsp;&nbsp;No professional work experience.</br>
   &nbsp;&nbsp;I am looking for an opportunity to an entry/junior level position where I could improve my skills and learn new ones whilst being</br>
   &nbsp;&nbsp;a great team member and contributing to companies success.</br>
-</details>
+
