@@ -72,3 +72,14 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;I am looking for an opportunity to an entry/junior level position where I could improve my skills and learn new ones whilst being</br>
 &nbsp;&nbsp;a great team member and contributing to companies success.</br>
 
+<h3>University Projects</h3>
+• 2D Tower Defence game prototype. C#, Unity, Aseprite - created pixel art for visual assets/UI.
+<img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'>
+<br>
+• 2D Platformer. C++, SFML, Adobe Illustrator - created vector art for visual assets/UI. 
+<img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
+<br>
+• 2D Platformer. C#, Unity, Adobe Illustrator. I was primarly a project manager during this project.<br>
+&nbsp;&nbsp; In addition, I took charge of creating visuals/UI, and one platformer level.
+<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/39322e03-4489-47f2-99ba-b7f36e98b87a' width='525'> </br>
+
