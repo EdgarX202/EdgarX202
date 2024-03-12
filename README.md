@@ -75,7 +75,7 @@ I have gained basic knowledge in the following areas:</br>
 <br>
 • 2D Platformer. C#, Unity, Adobe Illustrator. I was primarly a project manager during this project.<br>
 &nbsp;&nbsp; In addition, I took charge of creating visuals/UI, and one platformer level.
-<img src='https://github.com/EdgarX202/AzollaGP/assets/79812399/39322e03-4489-47f2-99ba-b7f36e98b87a' width='525'> </br>
+<img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> </br>
 <br>
 • 2D Tower Defence game prototype. C#, Unity, Aseprite - created pixel art for visual assets/UI.
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
