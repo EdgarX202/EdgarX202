@@ -58,7 +58,8 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
 &nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
-&nbsp;&nbsp;- Games Engineering (c++, c#)
+&nbsp;&nbsp;- Games Engineering (c++, c#)</br>
+&nbsp;&nbsp;- Secure Software Development
   
 <h4> • Personal 👨‍🎓 </h4>
 &nbsp;&nbsp;I enjoy a challenge and would like to keep improving my skills in software engineering department.</br>
