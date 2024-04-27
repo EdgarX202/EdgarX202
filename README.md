@@ -59,16 +59,15 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
 &nbsp;&nbsp;- Games Engineering (c++, c#)</br>
-&nbsp;&nbsp;- Secure Software Development
+&nbsp;&nbsp;- Secure Software Development (vulnerabilities/attacks theory)
   
 <h4> • Personal 👨‍🎓 </h4>
-&nbsp;&nbsp;I enjoy a challenge and would like to keep improving my skills in software engineering department.</br>
+&nbsp;&nbsp;I enjoy a challenge and would like to keep improving my skills as a software engineer.</br>
 &nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
   
 <h4> • Work 🖥️ </h4>
 &nbsp;&nbsp;No professional work experience.</br>
-&nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills and learn new ones whilst being</br>
-&nbsp;&nbsp;a great team member and contributing to companies success.</br>
+&nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
 
 <h3>Video Game Projects</h3>
 <details>
@@ -86,14 +85,14 @@ I have gained basic knowledge in the following areas:</br>
 </details>
 <!--
 <details>
-  <summary>Personal Projects (in development)</summary>
+  <summary>Personal Projects (under construction)</summary>
 <br>
   - Projects currently in development.
 </details>
 --
 <h3>Software Projects</h3>
 <details>
-<summary>Personal Projects (in development)</summary>
+<summary>Personal Projects (under construction)</summary>
 <br>
 - Projects currently in development.
 </details>
