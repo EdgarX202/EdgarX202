@@ -66,7 +66,7 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
   
 <h4> • Work 🖥️ </h4>
-&nbsp;&nbsp;No professional work experience.</br>
+&nbsp;&nbsp;- No professional work experience.</br>
 &nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
 
 <h3>Video Game Projects</h3>
