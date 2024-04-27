@@ -78,22 +78,23 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp; In addition, I took charge of creating visuals/UI, and one platformer level.
 <img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> </br>
 <br>
-• 2D Tower Defence game prototype. C#, Unity, Aseprite - created pixel art for visual assets/UI.
+• 2D Tower Defence game prototype. C#, Unity, Aseprite.
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
 <br>
-• 2D Platformer. C++, SFML, Adobe Illustrator - created vector art for visual assets/UI. 
+• 2D Platformer. C++, SFML, Adobe Illustrator. 
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
-
+<!--
 <details>
   <summary>Personal Projects (in development)</summary>
 <br>
   - Projects currently in development.
 </details>
-
+--
 <h3>Software Projects</h3>
 <details>
 <summary>Personal Projects (in development)</summary>
 <br>
 - Projects currently in development.
 </details>
+-->
