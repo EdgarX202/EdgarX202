@@ -1,12 +1,12 @@
 <!--HEADER-->
-<h1 align="center"> Welcome! :wave: I'm Edgar :man_technologist:</h1>
-<p align="center"> BSc(Hons) Games Development student.</p>
+<h1 align="center"> Welcome! :wave::man_technologist:</h1>
+<p align="center"> BSc(Hons) Games Development Graduate (July '24 - expecting 2:1 degree)</p>
   
 <!--SOCIAL MEDIA-->
 <p align="center">
   <a href="https://www.linkedin.com/in/edgar-park-706545b7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+  </a>
 </p>
 
 <!--SKILLS-->
@@ -69,6 +69,11 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;- No professional work experience.</br>
 &nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
 
+<h4> • Interests 🎱</h4>
+&nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
+&nbsp;&nbsp;- Former Martial Artist (7+ years experience).</br>
+&nbsp;&nbsp;- I enjoy playing billiard, 9 ball and watch sports on tv.</br>
+
 <h3>Video Game Projects</h3>
 <details>
 <summary>University Projects</summary>
@@ -77,10 +82,12 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp; In addition, I took charge of creating visuals/UI, and one platformer level.
 <img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> </br>
 <br>
-• 2D Tower Defence game prototype. C#, Unity, Aseprite.
+• 2D Tower Defence game prototype. C#, Unity, Aseprite. </br>
+&nbsp;&nbsp; Worked on the project as a solo developer.</br>
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
 <br>
-• 2D Platformer. C++, SFML, Adobe Illustrator. 
+• 2D Platformer. C++, SFML, Adobe Illustrator. </br>
+&nbsp;&nbsp; Worked on the project in a team of two. Splitting tasks equally.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
 <!--
