@@ -70,8 +70,8 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
 
 <h4> • Interests 🎱</h4>
+&nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
 &nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
-&nbsp;&nbsp;- Former Martial Artist (7+ years experience).</br>
 &nbsp;&nbsp;- I enjoy playing billiard, 9 ball and watch sports on tv.</br>
 
 <h3>Video Game Projects</h3>
