@@ -53,7 +53,7 @@
 
 <h3> Experience </h3>
 <h4> • University 🏫 </h4>
-I have gained basic knowledge in the following areas:</br>
+I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Software development (c++, c#)</br>
 &nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
 &nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
@@ -61,16 +61,13 @@ I have gained basic knowledge in the following areas:</br>
 &nbsp;&nbsp;- Games Engineering (c++, c#)</br>
 &nbsp;&nbsp;- Secure Software Development (vulnerabilities/attacks theory)
   
-<h4> • Personal 👨‍🎓 </h4>
-&nbsp;&nbsp;I enjoy a challenge and would like to keep improving my skills as a software engineer.</br>
-&nbsp;&nbsp;Currently working on various university projects, with the goal of improving soft and hard skills.</br>
-  
 <h4> • Work 🖥️ </h4>
 &nbsp;&nbsp;- No professional work experience.</br>
 &nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
 
-<h4> • Interests 🎱</h4>
+<h4> • Personal 👨‍🎓 </h4>
 &nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
+&nbsp;&nbsp;- I enjoy a challenge and would like to keep improving my skills as a software engineer.</br>
 &nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
 &nbsp;&nbsp;- I enjoy playing billiard, 9 ball and watch sports on tv.</br>
 
