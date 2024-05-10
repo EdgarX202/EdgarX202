@@ -68,6 +68,7 @@ I have gained knowledge in the following areas:</br>
 <h4> • Personal 👨‍🎓 </h4>
 &nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
 &nbsp;&nbsp;- I enjoy a challenge and would like to keep improving my skills as a software engineer.</br>
+&nbsp;&nbsp;- Currently learning 3D Modelling as a hobby.</br>
 &nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
 &nbsp;&nbsp;- I enjoy playing billiard, 9 ball and watch sports on tv.</br>
 
