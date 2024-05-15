@@ -1,6 +1,7 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave::man_technologist:</h1>
-<p align="center"> BSc(Hons) Games Development Graduate (July '24 - expecting 2:1 degree)</p>
+<p align="center"> BSc(Hons) Games Development Graduate (2:1 Degree Classification)</br>
+MSc Computing (September '24 - September '25)</p>
   
 <!--SOCIAL MEDIA-->
 <p align="center">
@@ -43,8 +44,14 @@
 
 <h2>📃 Resume</h2>
 <h3> Education </h3>
+💻 MSc Computing</br>
+📅 2024 - 2025</br>
+🏅 Grade - N/A</br>
+📍 Edinburgh Napier University, Scotland, UK</br>
+</br>
 💻 BSc(Hons) Games Development</br>
 📅 2020 - 2024</br>
+🏅 Grade - 2:1 Degree Classification</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 </br>
 👨‍💻 HND Interactive Media and Design</br>
@@ -59,7 +66,6 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
 &nbsp;&nbsp;- Games Engineering (c++, c#)</br>
-&nbsp;&nbsp;- Secure Software Development (vulnerabilities/attacks theory)
   
 <h4> • Work 🖥️ </h4>
 &nbsp;&nbsp;- No professional work experience.</br>
