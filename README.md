@@ -1,6 +1,6 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave::man_technologist:</h1>
-<p align="center"> BSc(Hons) Games Development Graduate (2:1 Degree Classification)</br>
+<p align="center"> BSc(Hons) Games Development Graduate</br>
 MSc Computing (September '24 - September '25)</p>
   
 <!--SOCIAL MEDIA-->
@@ -46,12 +46,10 @@ MSc Computing (September '24 - September '25)</p>
 <h3> Education </h3>
 💻 MSc Computing</br>
 📅 2024 - 2025</br>
-🏅 Grade - N/A</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 </br>
 💻 BSc(Hons) Games Development</br>
 📅 2020 - 2024</br>
-🏅 Grade - 2:1 Degree Classification</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 </br>
 👨‍💻 HND Interactive Media and Design</br>
@@ -64,19 +62,19 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Software development (c++, c#)</br>
 &nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
 &nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
+&nbsp;&nbsp;- Group Projects (Teamwork, Leadership, other soft skills)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
 &nbsp;&nbsp;- Games Engineering (c++, c#)</br>
   
 <h4> • Work 🖥️ </h4>
 &nbsp;&nbsp;- No professional work experience.</br>
-&nbsp;&nbsp;I am looking for an opportunity to a graduate/entry/junior level position where I could improve my skills further and learn new ones whilst being a great team member and contributor to companies success.</br>
+&nbsp;&nbsp;- Looking for a graduate opportunity, where I could improve my skills further and learn new ones whilst being a valuable team member and contributor to companies success.</br>
 
 <h4> • Personal 👨‍🎓 </h4>
 &nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
-&nbsp;&nbsp;- I enjoy a challenge and would like to keep improving my skills as a software engineer.</br>
-&nbsp;&nbsp;- Currently learning 3D Modelling as a hobby.</br>
 &nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
-&nbsp;&nbsp;- I enjoy playing billiard, 9 ball and watch sports on tv.</br>
+&nbsp;&nbsp;- Currently learning 3D Modelling as a hobby.</br>
+&nbsp;&nbsp;- I enjoy playing and watching sports.</br>
 
 <h3>Video Game Projects</h3>
 <details>
@@ -94,17 +92,9 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp; Worked on the project in a team of two. Splitting tasks equally.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
-<!--
+
+<h3>Software Projects (In Development)</h3>
 <details>
-  <summary>Personal Projects (under construction)</summary>
-<br>
-  - Projects currently in development.
+<summary>University Projects</summary>
+- Will be uploaded as soon as the project is finished.
 </details>
---
-<h3>Software Projects</h3>
-<details>
-<summary>Personal Projects (under construction)</summary>
-<br>
-- Projects currently in development.
-</details>
--->
