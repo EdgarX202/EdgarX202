@@ -70,11 +70,10 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- No professional work experience.</br>
 &nbsp;&nbsp;- Looking for a graduate opportunity, where I could improve my skills further and learn new ones whilst being a valuable team member and contributor to companies success.</br>
 
-<h4> • Personal 👨‍🎓 </h4>
+<h4> • Personal Interests 👨‍🎓 </h4>
 &nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
-&nbsp;&nbsp;- I like researching and watching documentaries about technology, space and military.</br>
-&nbsp;&nbsp;- Currently learning 3D Modelling as a hobby.</br>
-&nbsp;&nbsp;- I enjoy playing and watching sports.</br>
+&nbsp;&nbsp;- Interest in technology, space and military.</br>
+&nbsp;&nbsp;- Watch and play various sports.</br>
 
 <h3>Video Game Projects</h3>
 <details>
