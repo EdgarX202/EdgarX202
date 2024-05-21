@@ -37,11 +37,6 @@ MSc Computing (September '24 - September '25)</p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarX202&theme=gruvbox" width="245"/></a>
 </p>
 
-<!--SUMMARY CARD-->
-<p align='center'>
-  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdgarX202&theme=dark"/></a>
-</p>
-
 <h2>📃 Resume</h2>
 <h3> Education </h3>
 💻 MSc Computing</br>
