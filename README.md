@@ -50,24 +50,19 @@ MSc Computing (September '24 - September '25)</p>
 💻 BSc(Hons) Games Development</br>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
-</br>
-👨‍💻 HND Interactive Media and Design</br>
-📅 2017 - 2019</br>
-📍 Edinburgh College, Scotland, UK</br>
 
 <h3> Experience </h3>
 <h4> • University 🏫 </h4>
 I have gained knowledge in the following areas:</br>
-&nbsp;&nbsp;- Software development (c++, c#)</br>
-&nbsp;&nbsp;- Algorithms and Data Structures (c#)</br>
-&nbsp;&nbsp;- Project Management (Being a project manager in the group project)</br>
-&nbsp;&nbsp;- Group Projects (Teamwork, Leadership, other soft skills)</br>
-&nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary algorithms)</br>
-&nbsp;&nbsp;- Games Engineering (c++, c#)</br>
+&nbsp;&nbsp;- Software development (c++, c#, data structures, SDLC)</br>
+&nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication)</br>
+&nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
+&nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
   
-<h4> • Work 🖥️ </h4>
-&nbsp;&nbsp;- No professional work experience.</br>
-&nbsp;&nbsp;- Looking for a graduate opportunity, where I could improve my skills further and learn new ones whilst being a valuable team member and contributor to companies success.</br>
+<h4> • Independent Study 👨🏻‍💻 </h4>
+&nbsp;&nbsp;- UML (Unified Modelling Language)</br>
+&nbsp;&nbsp;- Azure (Theory mainly)</br>
+&nbsp;&nbsp;- Version Control - Git, GitHub.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
 &nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
