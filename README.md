@@ -29,11 +29,6 @@ MSc Computing (September '24 - September '25)</p>
   &nbsp;<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>    
 
-<!--INDEPENDENT LEARNING RESOURCES-->
-<p align="center">
-    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
 <!--GITHUB STATS-->
 <p align='center'>
 </br>
@@ -49,6 +44,7 @@ MSc Computing (September '24 - September '25)</p>
 </br>
 💻 BSc(Hons) Games Development</br>
 📅 2020 - 2024</br>
+⚖️ Grade - 2:1</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
 <h3> Experience </h3>
