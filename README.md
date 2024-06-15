@@ -65,6 +65,12 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Interest in technology, space and military.</br>
 &nbsp;&nbsp;- Watch and play various sports.</br>
 
+<h3>Software Projects (In Development)</h3>
+<details>
+<summary>University Projects</summary>
+- Will be uploaded as soon as the project is finished.
+</details>
+
 <h3>Video Game Projects</h3>
 <details>
 <summary>University Projects</summary>
@@ -80,10 +86,4 @@ I have gained knowledge in the following areas:</br>
 • 2D Platformer. C++, SFML, Adobe Illustrator. </br>
 &nbsp;&nbsp; Worked on the project in a team of two. Splitting tasks equally.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
-</details>
-
-<h3>Software Projects (In Development)</h3>
-<details>
-<summary>University Projects</summary>
-- Will be uploaded as soon as the project is finished.
 </details>
