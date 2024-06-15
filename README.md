@@ -61,9 +61,8 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Version Control - Git, GitHub.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
-&nbsp;&nbsp;- Former Martial Artist (7+ years of experience).</br>
-&nbsp;&nbsp;- Interest in technology, space and military.</br>
-&nbsp;&nbsp;- Watch and play various sports.</br>
+&nbsp;&nbsp;- Technology.</br>
+&nbsp;&nbsp;- Sports.</br>
 
 <h3>Software Projects (In Development)</h3>
 <details>
