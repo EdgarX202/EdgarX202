@@ -50,14 +50,13 @@ MSc Computing (September '24 - September '25)</p>
 <h3> Experience </h3>
 <h4> • University 🏫 </h4>
 I have gained knowledge in the following areas:</br>
-&nbsp;&nbsp;- Software development (c++, c#, data structures, SDLC)</br>
+&nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
 &nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
   
 <h4> • Independent Study 👨🏻‍💻 </h4>
 &nbsp;&nbsp;- UML (Unified Modelling Language)</br>
-&nbsp;&nbsp;- Azure (Theory mainly)</br>
 &nbsp;&nbsp;- Version Control - Git, GitHub.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
