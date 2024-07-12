@@ -61,6 +61,7 @@ I have gained knowledge in the following areas:</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
 &nbsp;&nbsp;- Technology.</br>
+&nbsp;&nbsp;- Military.</br>
 &nbsp;&nbsp;- Sports.</br>
 
 <h3>Software Projects (In Development)</h3>
