@@ -44,7 +44,6 @@ MSc Computing (September '24 - September '25)</p>
 </br>
 💻 BSc(Hons) Games Development</br>
 📅 2020 - 2024</br>
-⚖️ Grade - 2:1</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
 <h3> Experience </h3>
@@ -58,6 +57,7 @@ I have gained knowledge in the following areas:</br>
 <h4> • Independent Study 👨🏻‍💻 </h4>
 &nbsp;&nbsp;- UML (Unified Modelling Language)</br>
 &nbsp;&nbsp;- Version Control - Git, GitHub.</br>
+&nbsp;&nbsp;- C++.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
 &nbsp;&nbsp;- Technology.</br>
