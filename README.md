@@ -56,7 +56,7 @@ I have gained knowledge in the following areas:</br>
 <h4> • Independent Study 👨🏻‍💻 </h4>
 &nbsp;&nbsp;- UML (Unified Modelling Language)</br>
 &nbsp;&nbsp;- Version Control - Git, GitHub.</br>
-&nbsp;&nbsp;- C++.</br>
+&nbsp;&nbsp;- Python.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
 &nbsp;&nbsp;- Technology.</br>
