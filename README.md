@@ -1,7 +1,7 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave::man_technologist:</h1>
-<p align="center"> BSc(Hons) Games Development graduate</br>
-MSc Computing (September '24 - September '25)</p>
+<p align="center"> BSc (Hons) Games Development graduate</br>
+MSc Computing (September '24 - August '25)</p>
   
 <!--SOCIAL MEDIA-->
 <p align="center">
@@ -54,8 +54,8 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
   
 <h4> • Independent Study 👨🏻‍💻 </h4>
-&nbsp;&nbsp;- UML (Unified Modelling Language)</br>
-&nbsp;&nbsp;- Version Control - Git, GitHub.</br>
+&nbsp;&nbsp;- UML</br>
+&nbsp;&nbsp;- Git, GitHub.</br>
 &nbsp;&nbsp;- Python.</br>
 
 <h4> • Personal Interests 👨‍🎓 </h4>
@@ -63,12 +63,13 @@ I have gained knowledge in the following areas:</br>
 &nbsp;&nbsp;- Military.</br>
 &nbsp;&nbsp;- Sports.</br>
 
+<!--
 <h3>Software Projects (In Development)</h3>
 <details>
 <summary>University Projects</summary>
 - Will be uploaded as soon as the project is finished.
 </details>
-
+-->
 <h3>Video Game Projects</h3>
 <details>
 <summary>University Projects</summary>
