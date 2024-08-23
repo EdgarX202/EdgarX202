@@ -41,27 +41,21 @@ MSc Computing (September '24 - August '25)</p>
 📅 2024 - 2025</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 </br>
-💻 BSc(Hons) Games Development</br>
+💻 BSc (Hons) Games Development</br>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
 <h3> Experience </h3>
-<h4> • University 🏫 </h4>
-I have gained knowledge in the following areas:</br>
-&nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
-&nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication)</br>
-&nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
-&nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
-  
 <h4> • Independent Study 👨🏻‍💻 </h4>
 &nbsp;&nbsp;- UML</br>
 &nbsp;&nbsp;- Git, GitHub.</br>
 &nbsp;&nbsp;- Python.</br>
 
-<h4> • Personal Interests 👨‍🎓 </h4>
-&nbsp;&nbsp;- Technology.</br>
-&nbsp;&nbsp;- Military.</br>
-&nbsp;&nbsp;- Sports.</br>
+<h4> • University 🏫 </h4>
+&nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
+&nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication)</br>
+&nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
+&nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
 
 <!--
 <h3>Software Projects (In Development)</h3>
