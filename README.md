@@ -53,12 +53,12 @@ MSc Computing (September '24 - August '25)</p>
 
 <h4> • University 🏫 </h4>
 &nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
-&nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication)</br>
+&nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication, Documentation)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
 
 <!--
-<h3>Software Projects (In Development)</h3>
+<h3>Software Projects</h3>
 <details>
 <summary>University Projects</summary>
 - Will be uploaded as soon as the project is finished.
@@ -68,15 +68,17 @@ MSc Computing (September '24 - August '25)</p>
 <details>
 <summary>University Projects</summary>
 <br>
-• 2D Platformer. C#, Unity, Adobe Illustrator. I was primarly a project manager during this project.<br>
-&nbsp;&nbsp; In addition, I took charge of creating visuals/UI, and one platformer level.
+• <ins>C#, Unity, Adobe Illustrator</ins></br> 
+&nbsp;&nbsp; Took on the role of a Project Manager. Worked in an Agile Scrum team.</br>
+&nbsp;&nbsp; In addition, I took extra responsibilities of creating visuals/UI, and some programming tasks.
 <img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> </br>
 <br>
-• 2D Tower Defence game prototype. C#, Unity, Aseprite. </br>
+• <ins>C#, Unity, Aseprite</ins> </br>
 &nbsp;&nbsp; Worked on the project as a solo developer.</br>
+&nbsp;&nbsp; GDD, visuals/UI, programming, documentation, version control.</br>
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
 <br>
-• 2D Platformer. C++, SFML, Adobe Illustrator. </br>
-&nbsp;&nbsp; Worked on the project in a team of two. Splitting tasks equally.</br>
+• <ins>C++, SFML, Adobe Illustrator.</ins> </br>
+&nbsp;&nbsp; Worked in a team of 2. Took charge of visuals/UI, documentation and some programming tasks.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
