@@ -57,13 +57,35 @@ MSc Computing (September '24 - August '25)</p>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
 
-<!--
-<h3>Software Projects</h3>
+<h3>Dissertations</h3>
 <details>
-<summary>University Projects</summary>
+<summary>Honour's Project</summary>
+</br>
+• <ins>NetLogo, AI, Evolutionary Algorithms</ins></br> 
+</br>
+Research based project, developed throughout the academic year 23/24.</br>
+Version Control, Kanban board, MS Project, diary, programming, research, weekly supervisor meetings.</br>  
+</br>
+Research Question: How can evolutionary algorithm be used in creating a more dynamic and adaptive agent behaviour in a video game world where environmental change has impact on life?</br>
+</br>
+Repo: https://github.com/EdgarX202/ALife-Honours</br>
+</br>
+<p align='center'>
+  <img src='https://github.com/EdgarX202/ALife-Honours/blob/master/Poster.png' width='700'> <br>
+</p>
+</details>
+
+<details>
+<summary>Master's Project (coming 2025 summer)</summary>
 - Will be uploaded as soon as the project is finished.
 </details>
--->
+___________________
+<h3>Software Projects</h3>
+<details>
+<summary>Coming 24/25</summary>
+- Will be uploaded throughout the 24/25 academic year.
+</details>
+___________________
 <h3>Video Game Projects</h3>
 <details>
 <summary>University Projects</summary>
@@ -78,7 +100,8 @@ MSc Computing (September '24 - August '25)</p>
 &nbsp;&nbsp; GDD, visuals/UI, programming, documentation, version control.</br>
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
 <br>
-• <ins>C++, SFML, Adobe Illustrator.</ins> </br>
-&nbsp;&nbsp; Worked in a team of 2. Took charge of visuals/UI, documentation and some programming tasks.</br>
+• <ins>C++, SFML, Adobe Illustrator</ins> </br>
+&nbsp;&nbsp; Worked in a team of 2.</br> 
+&nbsp;&nbsp; Took charge of visuals/UI, documentation and some programming tasks.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
