@@ -59,6 +59,8 @@ MSc Computing (September '24 - August '25)</p>
 &nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication, Documentation)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
+&nbsp;&nbsp;- Web Design & Development (HTML, CSS, JS)</br>
+&nbsp;&nbsp;- Database & Computer Systems (SQL, PC hardware)</br>
 
 <h3>Dissertations</h3>
 <details>
@@ -82,6 +84,8 @@ Repo: https://github.com/EdgarX202/ALife-Honours</br>
 <summary>Master's Project (coming 2025 summer)</summary>
 - Will be uploaded as soon as the project is finished.
 </details>
+
+<!--
 ___________________
 <h3>Software Projects</h3>
 <details>
@@ -89,6 +93,9 @@ ___________________
 - Will be uploaded throughout the 24/25 academic year.
 </details>
 ___________________
+
+-->
+
 <h3>Video Game Projects</h3>
 <details>
 <summary>University Projects</summary>
