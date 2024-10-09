@@ -59,7 +59,7 @@ MSc Computing (September '24 - August '25)</p>
 &nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication, Documentation)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
-&nbsp;&nbsp;- Web Design & Development (HTML, CSS, JS)</br>
+&nbsp;&nbsp;- Web Design & Development (HTML, CSS, PHP)</br>
 &nbsp;&nbsp;- Database & Computer Systems (SQL, PC hardware)</br>
 
 <h3>Dissertations</h3>
