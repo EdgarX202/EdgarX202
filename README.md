@@ -96,9 +96,9 @@ ___________________
 
 -->
 
-<h3>Video Game Projects</h3>
+<h3>University Projects</h3>
 <details>
-<summary>University Projects</summary>
+<summary>Video Games</summary>
 <br>
 • <ins>C#, Unity, Adobe Illustrator</ins></br> 
 &nbsp;&nbsp; Took on the role of a Project Manager. Worked in an Agile Scrum team.</br>
@@ -116,9 +116,9 @@ ___________________
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
 
-<h3>Web Development</h3>
 <details>
-<summary>Website (In Progress)</summary>
-  • <ins>HTML, CSS, PHP, JS</ins> </br>
+<summary>Web Development</summary>
+<br>
+• <ins>HTML, CSS, PHP, JS</ins> </br>
 - December deadline
 </details>
