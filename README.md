@@ -6,7 +6,7 @@ MSc Computing (September '24 - August '25)</p>
 <!--SOCIAL MEDIA-->
 <p align="center">
   <a href="https://www.linkedin.com/in/edgar-park-706545b7/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
 </p>
 
@@ -14,21 +14,21 @@ MSc Computing (September '24 - August '25)</p>
 <p align='center'>
   Skills</br>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> -->
   <!-- &nbsp;<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
-  &nbsp;<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
 </p>    
 
 <!--GITHUB STATS-->
@@ -47,12 +47,6 @@ MSc Computing (September '24 - August '25)</p>
 💻 BSc (Hons) Games Development</br>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
-
-<h3> Experience </h3>
-<h4> • Independent Study 👨🏻‍💻 </h4>
-&nbsp;&nbsp;- UML</br>
-&nbsp;&nbsp;- Git, GitHub.</br>
-&nbsp;&nbsp;- Python.</br>
 
 <h4> • University 🏫 </h4>
 &nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
@@ -89,8 +83,8 @@ Repo: https://github.com/EdgarX202/ALife-Honours</br>
 ___________________
 <h3>Software Projects</h3>
 <details>
-<summary>Coming 24/25</summary>
-- Will be uploaded throughout the 24/25 academic year.
+<summary>Soon</summary>
+- Will be uploaded someday.
 </details>
 ___________________
 
@@ -120,5 +114,15 @@ ___________________
 <summary>Web Development</summary>
 <br>
 • <ins>HTML, CSS, PHP, JS</ins> </br>
-- December deadline
+&nbsp;&nbsp; A prototype of a website for supporting university online learning.</br> 
+&nbsp;&nbsp; - Used CSS for styling each page.</br>
+&nbsp;&nbsp; - Used JS for client-side validation (validating login form).</br>
+&nbsp;&nbsp; - Used PHP for server-side scripting (php session, creating and executing sql queries).</br>
+&nbsp;&nbsp; - Used MariaDB to create a database and store student and module details.</br>
+</br>
+The task was to create a website where a student can login and browse module pages. An admin should be able to add a new student, delete or edit their details as well well enrol a student to a module.</br>
+  </br>
+The website is still work in progress for learning purposes after the coursework is finished.</br>
+  </br>
+<img src='https://github.com/EdgarX202/Web-Development-coursework/blob/master/modulePage.png' width='800'>  
 </details>
