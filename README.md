@@ -41,7 +41,7 @@ MSc Computing (September '24 - August '25)</p>
 📅 2024 - 2025</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 </br>
-💻 BSc (Hons) Games Development</br>
+💻 BSc Games Development</br>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
