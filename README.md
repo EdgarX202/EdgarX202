@@ -1,6 +1,6 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave::man_technologist:</h1>
-<p align="center"> BSc (Hons) Games Development graduate</br>
+<p align="center"> BSc Games Development graduate</br>
 MSc Computing (September '24 - August '25)</p>
   
 <!--SOCIAL MEDIA-->
