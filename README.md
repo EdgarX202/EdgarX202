@@ -14,21 +14,18 @@ MSc Computing (September '24 - August '25)</p>
 <p align='center'>
   Skills</br>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> -->
-  <!-- &nbsp;<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+  &nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
+  <br>
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  <br>
-  &nbsp;<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
 </p>    
 
 <!--GITHUB STATS-->
@@ -47,6 +44,11 @@ MSc Computing (September '24 - August '25)</p>
 💻 BSc (Hons) Games Development</br>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
+
+<h4> • Personal Learning👨‍🎓 </h4>
+&nbsp;&nbsp;- Python</br>
+&nbsp;&nbsp;- Math for AI (Linear Algebra, Calculus, Probability & Statistics)</br>
+&nbsp;&nbsp;- Machine Learning</br>
 
 <h4> • University 🏫 </h4>
 &nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
