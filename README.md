@@ -1,7 +1,7 @@
 <!--HEADER-->
 <h1 align="center"> Welcome! :wave::man_technologist:</h1>
-<p align="center"> BSc Games Development graduate</br>
-MSc Computing (September '24 - August '25)</p>
+<p align="center"> MSc Computing (September '24 - August '25) </br>
+BSc Games Development graduate</p>
   
 <!--SOCIAL MEDIA-->
 <p align="center">
@@ -16,7 +16,7 @@ MSc Computing (September '24 - August '25)</p>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   <br>
@@ -26,6 +26,9 @@ MSc Computing (September '24 - August '25)</p>
   <br>
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  <br>
+  &nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
 </p>    
 
 <!--GITHUB STATS-->
@@ -60,6 +63,11 @@ MSc Computing (September '24 - August '25)</p>
 
 <h3>Dissertations</h3>
 <details>
+<summary>Master's Project (coming 2025 summer)</summary>
+- Will be uploaded as soon as the project is finished.
+</details>
+
+<details>
 <summary>Honour's Project</summary>
 </br>
 • <ins>NetLogo, AI, Evolutionary Algorithms</ins></br> 
@@ -76,11 +84,6 @@ Repo: https://github.com/EdgarX202/ALife-Honours</br>
 </p>
 </details>
 
-<details>
-<summary>Master's Project (coming 2025 summer)</summary>
-- Will be uploaded as soon as the project is finished.
-</details>
-
 <!--
 ___________________
 <h3>Software Projects</h3>
@@ -93,6 +96,23 @@ ___________________
 -->
 
 <h3>University Projects</h3>
+<details>
+<summary>Web Development</summary>
+<br>
+• <ins>HTML, CSS, PHP, JS</ins> </br>
+&nbsp;&nbsp; A prototype of a website for supporting university online learning.</br> 
+&nbsp;&nbsp; - Used CSS for styling each page.</br>
+&nbsp;&nbsp; - Used JS for client-side validation (validating login form).</br>
+&nbsp;&nbsp; - Used PHP for server-side scripting (php session, creating and executing sql queries).</br>
+&nbsp;&nbsp; - Used MariaDB to create a database and store student and module details.</br>
+</br>
+The task was to create a website where a student can login and browse module pages. An admin should be able to add a new student, delete or edit their details as well well enrol a student to a module.</br>
+  </br>
+The website is still work in progress for learning purposes after the coursework is finished.</br>
+  </br>
+<img src='https://github.com/EdgarX202/Web-Development-coursework/blob/master/modulePage.png' width='800'>  
+</details>
+
 <details>
 <summary>Video Games</summary>
 <br>
@@ -110,21 +130,4 @@ ___________________
 &nbsp;&nbsp; Worked in a team of 2.</br> 
 &nbsp;&nbsp; Took charge of visuals/UI, documentation and some programming tasks.</br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
-</details>
-
-<details>
-<summary>Web Development</summary>
-<br>
-• <ins>HTML, CSS, PHP, JS</ins> </br>
-&nbsp;&nbsp; A prototype of a website for supporting university online learning.</br> 
-&nbsp;&nbsp; - Used CSS for styling each page.</br>
-&nbsp;&nbsp; - Used JS for client-side validation (validating login form).</br>
-&nbsp;&nbsp; - Used PHP for server-side scripting (php session, creating and executing sql queries).</br>
-&nbsp;&nbsp; - Used MariaDB to create a database and store student and module details.</br>
-</br>
-The task was to create a website where a student can login and browse module pages. An admin should be able to add a new student, delete or edit their details as well well enrol a student to a module.</br>
-  </br>
-The website is still work in progress for learning purposes after the coursework is finished.</br>
-  </br>
-<img src='https://github.com/EdgarX202/Web-Development-coursework/blob/master/modulePage.png' width='800'>  
 </details>
