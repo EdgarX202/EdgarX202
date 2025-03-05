@@ -48,17 +48,12 @@ BSc Games Development graduate</p>
 📅 2020 - 2024</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
-<h4> • Personal Learning👨‍🎓 </h4>
-&nbsp;&nbsp;- Python</br>
-&nbsp;&nbsp;- Math for AI (Linear Algebra, Calculus, Probability & Statistics)</br>
-&nbsp;&nbsp;- Machine Learning</br>
-
 <h4> • University 🏫 </h4>
-&nbsp;&nbsp;- Software development (C++, C#, data structures, SDLC)</br>
+&nbsp;&nbsp;- Software development (C++, C#, Python, data structures, SDLC)</br>
 &nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication, Documentation)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
-&nbsp;&nbsp;- Web Design & Development (HTML, CSS, PHP)</br>
+&nbsp;&nbsp;- Web Design & Development (HTML, CSS)</br>
 &nbsp;&nbsp;- Database & Computer Systems (SQL, PC hardware)</br>
 
 <h3>Dissertations</h3>
