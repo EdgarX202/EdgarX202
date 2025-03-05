@@ -31,13 +31,6 @@ BSc Games Development graduate</p>
   &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
 </p>    
 
-<!--GITHUB STATS-->
-<p align='center'>
-</br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdgarX202&show_icons=true&count_private=true&theme=gruvbox" width="400"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdgarX202&theme=gruvbox" width="245"/></a>
-</p>
-
 <h2>📃 Resume</h2>
 <h3> Education </h3>
 💻 MSc Computing</br>
