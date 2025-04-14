@@ -46,7 +46,7 @@ BSc Games Development graduate</p>
 &nbsp;&nbsp;- Project Management (Agile, Scrum, Leadership, Planning, Communication, Documentation)</br>
 &nbsp;&nbsp;- Group Projects (Teamwork, Project Manager, Problem Solving)</br>
 &nbsp;&nbsp;- Artificial Intelligence (Neural Networks, Evolutionary Algorithms)</br>
-&nbsp;&nbsp;- Web Design & Development (HTML, CSS)</br>
+&nbsp;&nbsp;- Web Design & Development (HTML, CSS, Flask)</br>
 &nbsp;&nbsp;- Database & Computer Systems (SQL, PC hardware)</br>
 
 <h3>Dissertations</h3>
