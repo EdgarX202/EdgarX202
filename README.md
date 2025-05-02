@@ -87,6 +87,17 @@ ___________________
 <details>
 <summary>Web Development</summary>
 <br>
+• <ins>HTML, CSS, PYTHON, FLASK</ins> </br>
+&nbsp;&nbsp; A prototype of a floor navigation app for university campus.</br> 
+&nbsp;&nbsp; - Mainly used Python and PyCharm.</br>
+&nbsp;&nbsp; - XAMPP for database and Flask web framework.</br>
+&nbsp;&nbsp; - Backend navigation built using NetworkX, svgelements, A* pathfinding algorithm.</br>
+</br>
+The task was to build a navigation app that could be used on campus. The idea is that student could access each floor map, select rooms they are looking for and get the shortest path shown on the map.</br>
+  </br>
+<img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
+<br>
+<br>
 • <ins>HTML, CSS, PHP, JS</ins> </br>
 &nbsp;&nbsp; A prototype of a website for supporting university online learning.</br> 
 &nbsp;&nbsp; - Used CSS for styling each page.</br>
@@ -95,8 +106,6 @@ ___________________
 &nbsp;&nbsp; - Used MariaDB to create a database and store student and module details.</br>
 </br>
 The task was to create a website where a student can login and browse module pages. An admin should be able to add a new student, delete or edit their details as well well enrol a student to a module.</br>
-  </br>
-The website is still work in progress for learning purposes after the coursework is finished.</br>
   </br>
 <img src='https://github.com/EdgarX202/Web-Development-coursework/blob/master/modulePage.png' width='800'>  
 </details>
