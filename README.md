@@ -50,15 +50,6 @@
 &nbsp;&nbsp;🔸 Web Design & Development -- HTML, CSS, Flask.</br>
 &nbsp;&nbsp;🔸 Database & Computer Systems -- MySQL, PC hardware.</br>
 
-<!-- PERSONAL PROJECTS -->
-<h3>Personal Projects</h3>
-<details>
-<summary>Robotics (Project TBC)</summary>
-</br>
-- Development to commence in September</br>
-- Further details TBC.
-</details>
-
 <!-- UNIVERSITY PROJECTS -->
 <h3>University Projects</h3>
 <details>
@@ -112,6 +103,15 @@ The task was to create a website where a student can login and browse module pag
 &nbsp;&nbsp;▫️ Took charge of visuals/UI, documentation and some programming tasks.</br>
 </br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
+</details>
+
+<!-- PERSONAL PROJECTS -->
+<h3>Personal Projects</h3>
+<details>
+<summary>Robotics (Project TBC)</summary>
+</br>
+- Development to commence in September</br>
+- Further details TBC.
 </details>
 
 <!-- DISSERTATIONS -->
