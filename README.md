@@ -106,6 +106,7 @@ The task was to create a website where a student can login and browse module pag
 </details>
 
 <!-- PERSONAL PROJECTS -->
+<!--
 <h3>Personal Projects</h3>
 <details>
 <summary>Robotics (Project TBC)</summary>
@@ -113,6 +114,7 @@ The task was to create a website where a student can login and browse module pag
 - Development to commence in September</br>
 - Further details TBC.
 </details>
+-->
 
 <!-- DISSERTATIONS -->
 <h3>Dissertations</h3>
