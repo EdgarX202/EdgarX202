@@ -128,10 +128,10 @@ Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly mee
 <br>
 Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
 <br>
-Repo: https://github.com/EdgarX202/Masters-Project</br>
+Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 </br>
 <p align='center'>
-  <img src='https://github.com/EdgarX202/Masters-Project/blob/master/MoodleAI/LPG.gif' width='400'> <br>
+  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
 </p>
 </details>
 
