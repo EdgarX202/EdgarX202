@@ -119,12 +119,20 @@ The task was to create a website where a student can login and browse module pag
 <!-- DISSERTATIONS -->
 <h3>Dissertations</h3>
 <details>
-<summary>Master's Project (coming 2025 summer)</summary>
+<summary>Master's Project</summary>
 </br>
-- Will be uploaded as soon as the project is finished.
+• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
 </br>
+This project was developed throughout the summer 2025 (2.5 months).</br>
+Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
+<br>
+Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
+<br>
 Repo: https://github.com/EdgarX202/Masters-Project</br>
 </br>
+<p align='center'>
+  <img src='https://github.com/EdgarX202/Masters-Project/blob/master/MoodleAI/LPG.gif' width='400'> <br>
+</p>
 </details>
 
 <details>
