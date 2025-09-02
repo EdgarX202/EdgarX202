@@ -35,18 +35,15 @@
 <h2>📃 Resume</h2>
 <h3> Education </h3>
 🎓 MSc Computing</br>
-📅 2024 - 2025</br>
-📍 Edinburgh Napier University, Scotland, UK</br>
-</br>
 🎓 BSc Games Development</br>
-📅 2020 - 2024</br>
+📅 2020 - 2025</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
 <h3>University activities</h3>
-&nbsp;&nbsp;🔸 Software development -- Python, C++, C#, Data Structures, SDLC.</br>
+&nbsp;&nbsp;🔸 Software Development -- Python, C++, C#, Data Structures, SDLC.</br>
 &nbsp;&nbsp;🔸 Project Management -- Agile, Scrum, Leadership, Planning, Communication, Documentation.</br>
 &nbsp;&nbsp;🔸 Group Projects -- Teamwork, Project Manager, Problem Solving.</br>
-&nbsp;&nbsp;🔸 Artificial Intelligence -- Neural Networks, Evolutionary Algorithms, Machine Learning.</br>
+&nbsp;&nbsp;🔸 Artificial Intelligence -- ML, RL, LLM.</br>
 &nbsp;&nbsp;🔸 Web Design & Development -- HTML, CSS, Flask.</br>
 &nbsp;&nbsp;🔸 Database & Computer Systems -- MySQL, PC hardware.</br>
 
