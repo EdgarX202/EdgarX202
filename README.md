@@ -131,21 +131,4 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 </p>
 </details>
 
-<details>
-<summary>Honour's Project</summary>
-</br>
-• <ins>NetLogo, AI, Evolutionary Algorithms</ins></br> 
-</br>
-Research based project, developed throughout the academic year 23/24.</br>
-Version Control, Kanban board, MS Project, diary, programming, research, weekly supervisor meetings.</br>  
-</br>
-Research Question: How can evolutionary algorithm be used in creating a more dynamic and adaptive agent behaviour in a video game world where environmental change has impact on life?</br>
-</br>
-Repo: https://github.com/EdgarX202/ALife-Honours</br>
-</br>
-<p align='center'>
-  <img src='https://github.com/EdgarX202/ALife-Honours/blob/master/Poster.png' width='700'> <br>
-</p>
-</details>
-
 
