@@ -131,6 +131,6 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 </p>
 </details>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdgarX202&theme=nord&title=Stars,Followers,Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EdgarX202&theme=nord&title=Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 
