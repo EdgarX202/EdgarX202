@@ -30,7 +30,7 @@
   <br>
   &nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
-</p>    
+</p>   
 
 <h2>📃 Resume</h2>
 <h3> Education </h3>
@@ -130,5 +130,7 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
   <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
 </p>
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EdgarX202&theme=nord&title=Stars,Followers,Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 
