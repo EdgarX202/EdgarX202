@@ -69,6 +69,24 @@
 
 <!-- UNIVERSITY PROJECTS -->
 <h3><ins>University Projects</ins></h3>
+<!-- DISSERTATIONS -->
+<details>
+<summary>Master's Project</summary>
+</br>
+• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
+</br>
+This project was developed throughout the summer 2025 (2.5 months).</br>
+Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
+<br>
+Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
+<br>
+Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
+</br>
+<p align='center'>
+  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
+</p>
+</details>
+
 <details>
 <!-- Web -->
 <summary>Web Development</summary>
@@ -120,24 +138,6 @@ The objective was to build a website where a student can login and browse module
 &nbsp;&nbsp;▪️ Took charge of visuals/UI, documentation and some programming tasks.</br>
 </br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
-</details>
-
-<!-- DISSERTATIONS -->
-<details>
-<summary>Master's Project</summary>
-</br>
-• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
-</br>
-This project was developed throughout the summer 2025 (2.5 months).</br>
-Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
-<br>
-Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
-<br>
-Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
-</br>
-<p align='center'>
-  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
-</p>
 </details>
 
 <hr/>
