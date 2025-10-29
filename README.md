@@ -140,8 +140,4 @@ The objective was to build a website where a student can login and browse module
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
 
-<hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=EdgarX202&theme=nord&title=Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
 
