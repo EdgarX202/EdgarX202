@@ -15,7 +15,7 @@
   Skills</br>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> -->
   &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
@@ -35,7 +35,7 @@
 <h2>📃 Resume</h2>
 <h3><ins>Technical Skills & Core Competencies</ins></h3>
 <h4>Technical Skills</h4>
-&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- C#, C++, Python.</br>
+&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- C#, Python.</br>
 &nbsp;&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Concurrent & Parallel Systems, Software Architecture, Artificial Intelligence, SQL/Databases.</br>
 &nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, VS Code, PyCharm, Trello, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
