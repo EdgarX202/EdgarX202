@@ -15,8 +15,9 @@
   Skills</br>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> -->
-  &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)"/>
+  &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
@@ -50,7 +51,7 @@
 📍 Edinburgh Napier University, Scotland, UK</br>
 
 <h3><ins>Experience</ins></h3>
-<h4>Project Engineer & Developer (Group & Solo Projects) | Edinburgh Napier University</h4>
+<h4>Software Engineer & Developer (Group & Solo Projects) | Edinburgh Napier University</h4>
 &nbsp;&nbsp;▫️ <strong>System Architecture</strong> -- Engineered and implemented high-performance backend system components, including an optimized A* pathfinding algorithm developed in Python.</br>
 &nbsp;&nbsp;▫️ <strong>Project Delivery</strong> -- Applied agile methodology to lead small development teams, managing project planning, risk, and facilitating weekly deliverable reporting to ensure on-time completion against strict university and client deadlines.</br>
 &nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Utilised Git and GitHub for robust version control, enabling efficient concurrent development and code base integrity across all projects.</br>
@@ -74,7 +75,7 @@
 <details>
 <summary>Master's Project</summary>
 </br>
-• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
+• Python/Flask, React/JavaScript, Ollama(Llama3)</br> 
 </br>
 This project was developed throughout the summer 2025 (2.5 months).</br>
 Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
