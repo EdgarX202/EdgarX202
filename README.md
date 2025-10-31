@@ -29,8 +29,8 @@
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/> -->
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/> -->
 </p>   
 
 <h2>📃 Resume</h2>
