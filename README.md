@@ -39,7 +39,7 @@
 <h3><ins>Technical Skills & Core Competencies</ins></h3>
 <h4>Technical Skills</h4>
 &nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- C#, Python.</br>
-&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Concurrent & Parallel Systems, Software Architecture, Artificial Intelligence, SQL/Databases.</br>
+&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, Artificial Intelligence, SQL/Databases.</br>
 &nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, VS Code, PyCharm, Trello, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
 &nbsp;&nbsp;🔹 <strong>Project Management</strong> -- Applied agile methodology for project lifecycles, deliverable reporting, and stakeholder management.</br>
