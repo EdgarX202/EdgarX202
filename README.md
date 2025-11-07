@@ -16,8 +16,10 @@
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> -->
   &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+  <br>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
@@ -44,30 +46,29 @@
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
+<!-- PERSONAL PROJECTS -->
+<h3><ins>Personal Projects</ins></h3>
+<details>
+<summary>An app - Name TBD (Ongoing project)</summary>
+</br>
+• Currently building an app for iOS, Android, and PC. <br>
+• Using C# .NET MAUI. <br>
+• Deadline scheduled for Winter 2026.
+</details>
+
 <h3><ins>Education</ins></h3>
 🎓 MSc Computing</br>
 🎓 BSc Games Development</br>
 📅 2020 - 2025</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
 
-<h3><ins>Experience</ins></h3>
+<h3><ins>University Experience</ins></h3>
 <h4>Software Engineer & Developer (Group & Solo Projects) | Edinburgh Napier University</h4>
 &nbsp;&nbsp;▫️ <strong>System Architecture</strong> -- Engineered and implemented high-performance backend system components, including an optimized A* pathfinding algorithm developed in Python.</br>
 &nbsp;&nbsp;▫️ <strong>Project Delivery</strong> -- Applied agile methodology to lead small development teams, managing project planning, risk, and facilitating weekly deliverable reporting to ensure on-time completion against strict university and client deadlines.</br>
 &nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Utilised Git and GitHub for robust version control, enabling efficient concurrent development and code base integrity across all projects.</br>
 &nbsp;&nbsp;▫️ <strong>Technical Research</strong> -- Conducted in-depth research to inform project architecture, resulting in the successful design of a learning path generator.</br>
 &nbsp;&nbsp;▫️ <strong>Cross-Functional Roles</strong> -- Multi-tasked effectively across multiple roles (Project Manager, Programmer, Researcher) and mentored team members, leading to measurable increases in project efficiency.</br>
-
-<!-- PERSONAL PROJECTS -->
-<!--
-<h3>Personal Projects</h3>
-<details>
-<summary>NAME</summary>
-</br>
-- Description</br>
-- Further details TBC.
-</details>
--->
 
 <!-- UNIVERSITY PROJECTS -->
 <h3><ins>University Projects</ins></h3>
@@ -102,30 +103,12 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
   </br>
 <img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
-<br>
-<br>
-• <ins>HTML, CSS, PHP, JS</ins> </br>
-&nbsp;&nbsp; A prototype of a website for supporting university online learning.</br> 
-&nbsp;&nbsp;▪️ CSS for styling each page.</br>
-&nbsp;&nbsp;▪️ JS for client-side validation (validating login form).</br>
-&nbsp;&nbsp;▪️ PHP for server-side scripting (php session, creating and executing sql queries).</br>
-&nbsp;&nbsp;▪️ MariaDB database to store student and module details.</br>
-</br>
-The objective was to build a website where a student can login and browse module pages. An admin should be able to add a new student, delete or edit their details as well well enrol a student to a module.</br>
-  </br>
-<img src='https://github.com/EdgarX202/Web-Development-coursework/blob/master/modulePage.png' width='800'>  
+<br>  
 </details>
 
 <details>
 <!-- Video Games -->
 <summary>Video Games</summary>
-<br>
-• <ins>C#, Unity, Adobe Illustrator</ins></br> 
-</br>
-&nbsp;&nbsp;▪️ Took on the role of a Project Manager. Worked in an Agile Scrum team.</br>
-&nbsp;&nbsp;▪️ In addition, I took extra responsibilities of creating visuals/UI, and some programming tasks.</br>
-</br>
-<img src='https://github.com/EdgarX202/AzollaGP/blob/master/34.gif' width='600'> </br>
 <br>
 • <ins>C#, Unity, Aseprite</ins> </br>
 </br>
