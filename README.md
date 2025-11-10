@@ -16,13 +16,20 @@
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/> -->
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> -->
-  &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> -->
   <br>
   &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"/> -->
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/> -->
+  <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/> 
+  <br>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
@@ -30,19 +37,18 @@
   <br>
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  <br>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff"/> -->
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff"/> -->
+  &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/> -->
 </p>   
 
 <h2>📃 Resume</h2>
 <h3><ins>Technical Skills & Core Competencies</ins></h3>
 <h4>Technical Skills</h4>
-&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- C#, Python.</br>
-&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, Artificial Intelligence, SQL/Databases.</br>
-&nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, VS Code, PyCharm, Trello, MS Teams, MS Office Suite.</br>
+&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Focus on C# .NET environment.</br>
+&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, AI, Databases.</br>
+&nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
-&nbsp;&nbsp;🔹 <strong>Project Management</strong> -- Applied agile methodology for project lifecycles, deliverable reporting, and stakeholder management.</br>
+&nbsp;&nbsp;🔹 <strong>Project Management</strong> -- Knowledge in agile methodology for project lifecycles, deliverable reporting, and stakeholder management.</br>
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
