@@ -55,9 +55,9 @@
 <!-- PERSONAL PROJECTS -->
 <h3><ins>Personal Projects</ins></h3>
 <details>
-<summary>An app - Name TBD (Ongoing project)</summary>
+<summary>Currently working on my first .NET app</summary>
 </br>
-• Currently building an app for iOS, Android, and PC. <br>
+• Building an app for iOS and Android devices. <br>
 • Using C# .NET MAUI. <br>
 • Deadline scheduled for Winter 2026.
 </details>
