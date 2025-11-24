@@ -18,27 +18,18 @@
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/> -->
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"/> -->
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> -->
-  <br>
-  &nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"/> -->
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/> -->
+  &nbsp;<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
   <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/> 
-  <br>
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
   <br>
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/> -->
 </p>   
 
 <h2>📃 Resume</h2>
@@ -55,11 +46,11 @@
 <!-- PERSONAL PROJECTS -->
 <h3><ins>Personal Projects</ins></h3>
 <details>
-<summary>Currently working on my first .NET app</summary>
+<summary>Currently working on my first .NET mobile app</summary>
 </br>
 • Building an app for iOS and Android devices. <br>
 • Using C# .NET MAUI. <br>
-• Deadline scheduled for Winter 2026.
+• Repo: TBC.
 </details>
 
 <h3><ins>Education</ins></h3>
