@@ -50,7 +50,7 @@
 </br>
 • Building an app for iOS and Android devices. <br>
 • Using C# .NET MAUI. <br>
-• Repo: TBC.
+• Repo: TBA.
 </details>
 
 <h3><ins>Education</ins></h3>
