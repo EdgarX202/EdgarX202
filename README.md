@@ -16,24 +16,25 @@
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
-  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
-  <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
   <br>
+  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-  <br>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>   
 
+
+
 <h2>📃 Resume</h2>
-<h3><ins>Technical Skills & Core Competencies</ins></h3>
 <h4>Technical Skills</h4>
 &nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Focus on C# .NET ecosystem</br>
 &nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, AI, Databases.</br>
@@ -46,7 +47,7 @@
 <!-- PERSONAL PROJECTS -->
 <h3><ins>.NET Projects</ins></h3>
 <details>
-<summary>Currently workig on a project (Details TBA)</summary>
+<summary>Currently working on a project (Details TBA)</summary>
 </br>
 • Details TBA <br>
 </details>
@@ -60,8 +61,8 @@
 <h3><ins>University Experience</ins></h3>
 <h4>Software Engineer & Developer (Group & Solo Projects) | Edinburgh Napier University</h4>
 &nbsp;&nbsp;▫️ <strong>System Architecture</strong> -- Engineered and implemented high-performance backend system components, including an optimized A* pathfinding algorithm developed in Python.</br>
-&nbsp;&nbsp;▫️ <strong>Project Delivery</strong> -- Applied agile methodology to lead small development teams, managing project planning, risk, and facilitating weekly deliverable reporting to ensure on-time completion against strict university and client deadlines.</br>
-&nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Utilised Git and GitHub for robust version control, enabling efficient concurrent development and code base integrity across all projects.</br>
+&nbsp;&nbsp;▫️ <strong>Project Delivery</strong> -- Led a team of four using Agile Scrum practices, ensuring 100% on-time delivery.</br>
+&nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Managed the project codebase for the team using Git/GitHub, utilizing features like pull requests and branch protection to maintain a clean main branch and facilitate concurrent work.</br>
 &nbsp;&nbsp;▫️ <strong>Technical Research</strong> -- Conducted in-depth research to inform project architecture, resulting in the successful design of a learning path generator.</br>
 &nbsp;&nbsp;▫️ <strong>Cross-Functional Roles</strong> -- Multi-tasked effectively across multiple roles (Project Manager, Programmer, Researcher) and mentored team members, leading to measurable increases in project efficiency.</br>
 
