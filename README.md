@@ -44,13 +44,11 @@
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
 <!-- PERSONAL PROJECTS -->
-<h3><ins>Personal Projects</ins></h3>
+<h3><ins>.NET Projects</ins></h3>
 <details>
-<summary>Currently working on my first .NET mobile app</summary>
+<summary>Currently workig on a project (Details TBA)</summary>
 </br>
-• Building an app for iOS and Android devices. <br>
-• Using C# .NET MAUI. <br>
-• Repo: TBA.
+• Details TBA <br>
 </details>
 
 <h3><ins>Education</ins></h3>
