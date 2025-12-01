@@ -16,7 +16,7 @@
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/> -->
+  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
