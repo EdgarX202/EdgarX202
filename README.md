@@ -97,7 +97,9 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 &nbsp;&nbsp;▪️ Backend navigation built using NetworkX, svgelements, A* pathfinding algorithm.</br>
 </br>
 The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
-  </br>
+<br>
+Repo: https://github.com/EdgarX202/Campus-Navigator-Web-App</br>
+</br>
 <img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
 <br>  
 </details>
@@ -110,6 +112,8 @@ The objective was to build a navigation app that could be used on campus. A stud
 </br>
 &nbsp;&nbsp;▪️ Worked on the project as a solo developer.</br>
 &nbsp;&nbsp;▪️ GDD, visuals/UI, programming, documentation, version control.</br>
+<br>
+Repo: https://github.com/EdgarX202/2D-Tower-Defence</br>
 </br>
 <img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
 <br>
@@ -117,6 +121,8 @@ The objective was to build a navigation app that could be used on campus. A stud
 </br>
 &nbsp;&nbsp;▪️ Worked in a team of 2.</br> 
 &nbsp;&nbsp;▪️ Took charge of visuals/UI, documentation and some programming tasks.</br>
+<br>
+Repo: https://github.com/EdgarX202/2D-Mage-Madness</br>
 </br>
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 </details>
