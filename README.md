@@ -104,27 +104,3 @@ Repo: https://github.com/EdgarX202/Campus-Navigator-Web-App</br>
 <br>  
 </details>
 
-<details>
-<!-- Video Games -->
-<summary>Video Games</summary>
-<br>
-• <ins>C#, Unity, Aseprite</ins> </br>
-</br>
-&nbsp;&nbsp;▪️ Worked on the project as a solo developer.</br>
-&nbsp;&nbsp;▪️ GDD, visuals/UI, programming, documentation, version control.</br>
-<br>
-Repo: https://github.com/EdgarX202/2D-Tower-Defence</br>
-</br>
-<img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'> </br>
-<br>
-• <ins>C++, SFML, Adobe Illustrator</ins> </br>
-</br>
-&nbsp;&nbsp;▪️ Worked in a team of 2.</br> 
-&nbsp;&nbsp;▪️ Took charge of visuals/UI, documentation and some programming tasks.</br>
-<br>
-Repo: https://github.com/EdgarX202/2D-Mage-Madness</br>
-</br>
-<img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
-</details>
-
-
