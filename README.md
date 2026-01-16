@@ -47,9 +47,11 @@
 <!-- PERSONAL PROJECTS -->
 <h3><ins>.NET Projects</ins></h3>
 <details>
-<summary>Currently working on a project (Details TBA)</summary>
+<summary>Mobile App (Development In Progress)</summary>
 </br>
-• Details TBA <br>
+• Further details TBC <br>
+<br>
+Repo: https://github.com/EdgarX202/Mobile-App
 </details>
 
 <h3><ins>Education</ins></h3>
