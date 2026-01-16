@@ -50,7 +50,6 @@
 <summary>Mobile App (Development In Progress)</summary>
 </br>
 • Further details TBC <br>
-<br>
 Repo: https://github.com/EdgarX202/Mobile-App
 </details>
 
