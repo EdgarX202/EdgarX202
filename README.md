@@ -19,8 +19,8 @@
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
   <br>
-  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/> -->
   &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
@@ -48,10 +48,13 @@
 <!-- PERSONAL PROJECTS -->
 <h3><ins>.NET Projects</ins></h3>
 <details>
-<summary>Mobile App (Development In Progress)</summary>
+<summary>🚧 TaskForce Lite (Development In Progress)</summary>
 </br>
-• Further details TBC <br>
-Repo: https://github.com/EdgarX202/Mobile-App
+  A task management system similar to Trello. <br>
+  <b>Start Date</b> - 21/01/26 <br>
+• Other details TBA <br>
+  <br>
+Repo: https://github.com/EdgarX202/TaskForce-Lite
 </details>
 
 <h3><ins>Education</ins></h3>
