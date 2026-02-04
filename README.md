@@ -17,17 +17,16 @@
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  <br>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/> -->
-  &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/> -->
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
+  <!-- &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/> -->
   &nbsp;<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
@@ -46,7 +45,7 @@
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
 <!-- PERSONAL PROJECTS -->
-<h3><ins>.NET Projects</ins></h3>
+<!-- <h3><ins>.NET Projects</ins></h3>
 <details>
 <summary>🚧 TaskForce Lite (Development In Progress)</summary>
 </br>
@@ -55,7 +54,7 @@
 • Other details TBA <br>
   <br>
 Repo: https://github.com/EdgarX202/TaskForce-Lite
-</details>
+</details> -->
 
 <h3><ins>Education</ins></h3>
 🎓 MSc Computing</br>
@@ -73,14 +72,41 @@ Repo: https://github.com/EdgarX202/TaskForce-Lite
 
 <!-- UNIVERSITY PROJECTS -->
 <h3><ins>University Projects</ins></h3>
+
+<details>
+<summary>Games Development</summary>
+</br>
+  • <ins>C#, Unity, Visual Studio</ins>
+</br>
+&nbsp;&nbsp;▪️Solo development.</br> 
+&nbsp;&nbsp;▪️Unity games engine used to build this prototype.</br>
+&nbsp;&nbsp;▪️Coded in C#.</br>
+<br>
+Repo: https://github.com/EdgarX202/2D-Tower-Defence<br>
+</br>
+<img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'>  
+<br>
+<br>
+• <ins>C++, SFML, Visual Studio</ins>
+</br>
+&nbsp;&nbsp;▪️Prototype built in a team of 2.</br> 
+&nbsp;&nbsp;▪️ SFML multimedia library used for visuals.</br>
+&nbsp;&nbsp;▪️ Coded in C++.</br>
+<br>
+Repo: https://github.com/EdgarX202/2D-Mage-Madness<br>
+</br>
+<img src='https://github.com/EdgarX202/2D-Mage-Madness/blob/main/MM.gif' width='600'>  
+<br>
+</details>
+
 <!-- DISSERTATIONS -->
 <details>
 <summary>Master's Project</summary>
 </br>
-• Python/Flask, React/JavaScript, Ollama(Llama3)</br> 
+• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
 </br>
-This project was developed throughout the summer 2025 (2.5 months).</br>
-Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
+&nbsp;&nbsp;▪️This project was developed throughout the summer 2025 (2.5 months).</br>
+&nbsp;&nbsp;▪️Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
 <br>
 Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
 <br>
