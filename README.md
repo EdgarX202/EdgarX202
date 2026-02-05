@@ -105,10 +105,10 @@ Repo: https://github.com/EdgarX202/2D-Mage-Madness<br>
 </br>
 • <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
 </br>
+Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
+<br>
 &nbsp;&nbsp;▪️This project was developed throughout the summer 2025 (2.5 months).</br>
 &nbsp;&nbsp;▪️Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
-<br>
-Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
 <br>
 Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 </br>
