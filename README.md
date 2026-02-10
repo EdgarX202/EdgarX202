@@ -16,11 +16,19 @@
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  <br>
+  &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"/>
+
+  <!--
+  CUSTOM BADGE label-message-color
+  &nbsp;<img src="https://img.shields.io/badge/TEST-badgeCustom-red"/>
+  -->
+  
+  <!-- &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/> -->
   <br>
