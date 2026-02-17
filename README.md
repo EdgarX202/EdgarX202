@@ -44,7 +44,7 @@
 
 <h2>📃 Resume</h2>
 <h4>Technical Skills</h4>
-&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Focus on C# .NET ecosystem</br>
+&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Proficient in C# .NET ecosystem. Competent in Python, TypeScript</br>
 &nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, AI, Databases.</br>
 &nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
@@ -52,16 +52,50 @@
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
+<!-- PROJECTS -->
+<h3><ins>Projects</ins></h3>
+
+<details>
+<summary>Learning Path Generator</summary>
+</br>
+• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
+<br>
+&nbsp;&nbsp;▪️This project is part of MSc Computing dissertation and was developed throughout the summer 2025 (2.5 months).</br>
+&nbsp;&nbsp;▪️Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
+<br>
+Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
+</br>
+<p align='center'>
+  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
+</p>
+</details>
+
+<details>
+<summary>University Navigator Web App</summary>
+<br>
+• <ins>HTML, CSS, PYTHON, FLASK</ins> </br>
+&nbsp;&nbsp; A prototype of a floor navigation app for university campus.</br> 
+&nbsp;&nbsp;▪️ Built with Python (PyCharm IDE).</br>
+&nbsp;&nbsp;▪️ XAMPP for database and Flask web framework.</br>
+&nbsp;&nbsp;▪️ Backend navigation built using NetworkX, svgelements, A* pathfinding algorithm.</br>
+</br>
+The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
+<br>
+Repo: https://github.com/EdgarX202/Campus-Navigator-Web-App</br>
+</br>
+<img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
+<br>  
+</details>
+
 <!-- PERSONAL PROJECTS -->
 <!-- <h3><ins>.NET Projects</ins></h3>
 <details>
-<summary>🚧 TaskForce Lite (Development In Progress)</summary>
+<summary>🚧 </summary>
 </br>
-  A task management system similar to Trello. <br>
-  <b>Start Date</b> - 21/01/26 <br>
+  <b>Start Date</b> -  <br>
 • Other details TBA <br>
   <br>
-Repo: https://github.com/EdgarX202/TaskForce-Lite
+Repo:
 </details> -->
 
 <h3><ins>Education</ins></h3>
@@ -77,69 +111,4 @@ Repo: https://github.com/EdgarX202/TaskForce-Lite
 &nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Managed the project codebase for the team using Git/GitHub, utilizing features like pull requests and branch protection to maintain a clean main branch and facilitate concurrent work.</br>
 &nbsp;&nbsp;▫️ <strong>Technical Research</strong> -- Conducted in-depth research to inform project architecture, resulting in the successful design of a learning path generator.</br>
 &nbsp;&nbsp;▫️ <strong>Cross-Functional Roles</strong> -- Multi-tasked effectively across multiple roles (Project Manager, Programmer, Researcher) and mentored team members, leading to measurable increases in project efficiency.</br>
-
-<!-- UNIVERSITY PROJECTS -->
-<h3><ins>University Projects</ins></h3>
-
-<details>
-<summary>Games Development</summary>
-</br>
-  • <ins>C#, Unity, Visual Studio</ins>
-</br>
-&nbsp;&nbsp;▪️Solo development.</br> 
-&nbsp;&nbsp;▪️Unity games engine used to build this prototype.</br>
-&nbsp;&nbsp;▪️Coded in C#.</br>
-<br>
-Repo: https://github.com/EdgarX202/2D-Tower-Defence<br>
-</br>
-<img src='https://github.com/EdgarX202/2D-Tower-Defence/blob/master/demo.gif' width='600'>  
-<br>
-<br>
-• <ins>C++, SFML, Visual Studio</ins>
-</br>
-&nbsp;&nbsp;▪️Prototype built in a team of 2.</br> 
-&nbsp;&nbsp;▪️ SFML multimedia library used for visuals.</br>
-&nbsp;&nbsp;▪️ Coded in C++.</br>
-<br>
-Repo: https://github.com/EdgarX202/2D-Mage-Madness<br>
-</br>
-<img src='https://github.com/EdgarX202/2D-Mage-Madness/blob/main/MM.gif' width='600'>  
-<br>
-</details>
-
-<!-- DISSERTATIONS -->
-<details>
-<summary>Master's Project</summary>
-</br>
-• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
-</br>
-Research Question: How can personalised learning paths affect undergraduate student engagement and learning effectiveness in tech courses (e.g., software development)?<br>
-<br>
-&nbsp;&nbsp;▪️This project was developed throughout the summer 2025 (2.5 months).</br>
-&nbsp;&nbsp;▪️Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
-<br>
-Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
-</br>
-<p align='center'>
-  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
-</p>
-</details>
-
-<details>
-<!-- Web -->
-<summary>Web Development</summary>
-<br>
-• <ins>HTML, CSS, PYTHON, FLASK</ins> </br>
-&nbsp;&nbsp; A prototype of a floor navigation app for university campus.</br> 
-&nbsp;&nbsp;▪️ Built with Python (PyCharm IDE).</br>
-&nbsp;&nbsp;▪️ XAMPP for database and Flask web framework.</br>
-&nbsp;&nbsp;▪️ Backend navigation built using NetworkX, svgelements, A* pathfinding algorithm.</br>
-</br>
-The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
-<br>
-Repo: https://github.com/EdgarX202/Campus-Navigator-Web-App</br>
-</br>
-<img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
-<br>  
-</details>
 
