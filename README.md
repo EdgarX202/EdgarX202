@@ -52,6 +52,8 @@
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
+<br><strong>🚧 Currently working on a mobile app (C#, .NET, MAUI)</strong></br>
+
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
 
@@ -103,12 +105,4 @@ Repo:
 🎓 BSc Games Development</br>
 📅 2020 - 2025</br>
 📍 Edinburgh Napier University, Scotland, UK</br>
-
-<h3><ins>University Experience</ins></h3>
-<h4>Software Engineer & Developer (Group & Solo Projects) | Edinburgh Napier University</h4>
-&nbsp;&nbsp;▫️ <strong>System Architecture</strong> -- Engineered and implemented high-performance backend system components, including an optimized A* pathfinding algorithm developed in Python.</br>
-&nbsp;&nbsp;▫️ <strong>Project Delivery</strong> -- Led a team of four using Agile Scrum practices, ensuring 100% on-time delivery.</br>
-&nbsp;&nbsp;▫️ <strong>Code Collaboration</strong> -- Managed the project codebase for the team using Git/GitHub, utilizing features like pull requests and branch protection to maintain a clean main branch and facilitate concurrent work.</br>
-&nbsp;&nbsp;▫️ <strong>Technical Research</strong> -- Conducted in-depth research to inform project architecture, resulting in the successful design of a learning path generator.</br>
-&nbsp;&nbsp;▫️ <strong>Cross-Functional Roles</strong> -- Multi-tasked effectively across multiple roles (Project Manager, Programmer, Researcher) and mentored team members, leading to measurable increases in project efficiency.</br>
 
