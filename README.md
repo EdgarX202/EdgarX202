@@ -17,11 +17,16 @@
   &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/> -->
   <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
+  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
+  
+  
 
   <!--
   CUSTOM BADGE label-message-color
@@ -44,7 +49,7 @@
 
 <h2>📃 Resume</h2>
 <h4>Technical Skills</h4>
-&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Proficient in C# .NET ecosystem. Competent in Python</br>
+&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Competent in C# and Python</br>
 &nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, AI, Databases.</br>
 &nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
@@ -52,7 +57,7 @@
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
-<br><strong>🚧 Currently working on a mobile app (C#, .NET, MAUI)</strong></br>
+<br><strong>🚧 Currently working on a financial app</strong></br>
 
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
