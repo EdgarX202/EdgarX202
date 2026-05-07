@@ -19,7 +19,6 @@
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/> -->
-  <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
   <!-- &nbsp;<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
