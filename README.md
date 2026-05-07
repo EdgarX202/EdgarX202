@@ -57,8 +57,6 @@
 &nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
 &nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
 
-<br><strong>🚧 Currently working on a financial app</strong></br>
-
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
 
