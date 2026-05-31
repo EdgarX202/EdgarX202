@@ -17,23 +17,20 @@
   &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/> -->
+  <!-- &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/> -->
+  <br>
+  &nbsp;<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <br>
   &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-  <!-- &nbsp;<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
-  &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/> -->
-  
-  
-
-  <!--
-  CUSTOM BADGE label-message-color
-  &nbsp;<img src="https://img.shields.io/badge/TEST-badgeCustom-red"/>
-  -->
-  
-  <!-- &nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"/>
-  &nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  &nbsp;<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff"/>
+  <!-- &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"/>
+  &nbsp;<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
   &nbsp;<img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff"/> -->
   <br>
   &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"/>
@@ -43,8 +40,6 @@
   &nbsp;<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>   
-
-
 
 <h2>📃 Resume</h2>
 <h4>Technical Skills</h4>
