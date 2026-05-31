@@ -41,7 +41,6 @@
   &nbsp;<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
 </p>   
 
-<h2>📃 Resume</h2>
 <h4>Technical Skills</h4>
 &nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Competent in C# and Python</br>
 &nbsp;&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Software Architecture, AI, Databases.</br>
