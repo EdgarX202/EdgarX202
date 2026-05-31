@@ -59,7 +59,7 @@
 • <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
 <br>
 &nbsp;&nbsp;▪️This project is part of MSc Computing dissertation and was developed throughout the summer 2025 (2.5 months).</br>
-&nbsp;&nbsp;▪️Version Control, Kanban, Gantt Chart, PyCharm, programming, research, weekly meetings.<br>
+&nbsp;&nbsp;▪️Managed development using an Agile/Kanban framework, tracking milestones via Gantt charts and maintaining clean version control.<br>
 <br>
 Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 </br>
@@ -75,7 +75,7 @@ Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
 &nbsp;&nbsp; A prototype of a floor navigation app for university campus.</br> 
 &nbsp;&nbsp;▪️ Built with Python (PyCharm IDE).</br>
 &nbsp;&nbsp;▪️ XAMPP for database and Flask web framework.</br>
-&nbsp;&nbsp;▪️ Backend navigation built using NetworkX, svgelements, A* pathfinding algorithm.</br>
+&nbsp;&nbsp;▪️ Engineered a backend engine utilizing NetworkX to model campus layouts as graphs, implementing the A* pathfinding algorithm to calculate optimal room-to-room paths.</br>
 </br>
 The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
 <br>
