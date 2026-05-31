@@ -49,7 +49,7 @@
 <h2>📃 Resume</h2>
 <h4>Technical Skills</h4>
 &nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Competent in C# and Python</br>
-&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- ADS, Concurrent & Parallel Systems, Software Architecture, AI, Databases.</br>
+&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Software Architecture, AI, Databases.</br>
 &nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, MS Teams, MS Office Suite.</br>
 <h4>Core Competencies</h4>
 &nbsp;&nbsp;🔹 <strong>Project Management</strong> -- Knowledge in agile methodology for project lifecycles, deliverable reporting, and stakeholder management.</br>
