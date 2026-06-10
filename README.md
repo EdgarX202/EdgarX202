@@ -42,63 +42,23 @@
 </p>   
 
 <h4>Technical Skills</h4>
-&nbsp;&nbsp;🔸 <strong>Programming Languages</strong> -- Competent in C# and Python</br>
-&nbsp;&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Software Architecture, AI, Databases.</br>
-&nbsp;&nbsp;🔸 <strong>Tools & Platforms</strong> -- Git, GitHub, Visual Studio, MS Teams, MS Office Suite.</br>
+&nbsp;🔸 <strong>Programming Languages</strong> -- Proficient in Python. Competent in C#</br>
+&nbsp;🔸 <strong>Concepts</strong> -- Algorithms & Data Structures, Software Architecture, Artificial Intelligence, Relational Databases & Data Modeling.</br>
 <h4>Core Competencies</h4>
-&nbsp;&nbsp;🔹 <strong>Project Management</strong> -- Knowledge in agile methodology for project lifecycles, deliverable reporting, and stakeholder management.</br>
-&nbsp;&nbsp;🔹 <strong>Leadership & Teamwork</strong> -- Proven ability to motivate, mentor and lead small development teams to meet critical project goals.</br>
-&nbsp;&nbsp;🔹 <strong>Problem Solving</strong> -- Use of critical thinking and analytical skills to identify, analyse, and effectively resolve complex engineering challenges.</br>
+&nbsp;🔹 <strong>Project Management</strong> -- Experienced in Agile/Scrum workflows, sprint tracking via Kanban, and translating project milestones for stakeholder visibility.</br>
+&nbsp;🔹 <strong>Collaborative Engineering</strong> -- Proven ability to align with small development teams, participate in constructive code reviews, and collaborate to deliver project milestones.</br>
+&nbsp;🔹 <strong>Analytical Problem Solving</strong> -- Leveraging algorithmic optimization and structural analysis to debug complex issues and design scalable code solutions.</br>
 
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
 
-<details>
-<summary>Learning Path Generator</summary>
-</br>
-• <ins>Python/Flask, React/JavaScript, Ollama(Llama3)</ins></br> 
-<br>
-&nbsp;&nbsp;▪️This project is part of MSc Computing dissertation and was developed throughout the summer 2025 (2.5 months).</br>
-&nbsp;&nbsp;▪️Managed development using an Agile/Kanban framework, tracking milestones via Gantt charts and maintaining clean version control.<br>
-<br>
-Repo: https://github.com/EdgarX202/Learning-Path-Generator</br>
-</br>
-<p align='center'>
-  <img src='https://github.com/EdgarX202/Learning-Path-Generator/blob/master/MoodleAI/LPG.gif' width='400'> <br>
-</p>
-</details>
-
-<details>
-<summary>University Navigator Web App</summary>
-<br>
-• <ins>HTML, CSS, PYTHON, FLASK</ins> </br>
-&nbsp;&nbsp; A prototype of a floor navigation app for university campus.</br> 
-&nbsp;&nbsp;▪️ Built with Python (PyCharm IDE).</br>
-&nbsp;&nbsp;▪️ XAMPP for database and Flask web framework.</br>
-&nbsp;&nbsp;▪️ Engineered a backend engine utilizing NetworkX to model campus layouts as graphs, implementing the A* pathfinding algorithm to calculate optimal room-to-room paths.</br>
-</br>
-The objective was to build a navigation app that could be used on campus. A student should be able to access each floor map, select rooms and get the shortest path from A to B.</br>
-<br>
-Repo: https://github.com/EdgarX202/Campus-Navigator-Web-App</br>
-</br>
-<img src='https://github.com/EdgarX202/Campus-Navigator-Web-App/blob/main/navigation.gif' width='600'>
-<br>  
-</details>
-
-<!-- PERSONAL PROJECTS -->
-<!-- <h3><ins>.NET Projects</ins></h3>
-<details>
-<summary>🚧 </summary>
-</br>
-  <b>Start Date</b> -  <br>
-• Other details TBA <br>
-  <br>
-Repo:
-</details> -->
+&nbsp;🚧 Currently working on: [FinPulse](https://github.com/EdgarX202/Banking-Data-Analytics-Dashboard) (Banking Data Analytics Dashboard)<br>
+&nbsp;▫️ Project 1: [PathMind AI](https://github.com/EdgarX202/Learning-Path-Generator) (Learning Path Generator)<br>
+&nbsp;▫️ Project 2: [CampusGraph](https://github.com/EdgarX202/Campus-Navigator-Web-App) (Campus Navigator Web App)<br>
 
 <h3><ins>Education</ins></h3>
-🎓 MSc Computing</br>
-🎓 BSc Games Development</br>
-📅 2020 - 2025</br>
-📍 Edinburgh Napier University, Scotland, UK</br>
+&nbsp;🎓 MSc Computing</br>
+&nbsp;🎓 BSc Games Development</br>
+&nbsp;📅 2020 - 2025</br>
+&nbsp;📍 Edinburgh Napier University, Scotland, UK</br>
 
