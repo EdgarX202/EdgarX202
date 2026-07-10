@@ -52,7 +52,7 @@
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
 
-&nbsp;🚧 Currently working on: [FinPulse](https://github.com/EdgarX202/Banking-Data-Analytics-Dashboard) (Banking Data Analytics Dashboard)<br>
+&nbsp;🚧 Currently working on: [FinSight AI](https://github.com/EdgarX202/FinSight-AI) (AI Bank Statement Intelligence Platform)<br>
 &nbsp;▫️ Project 1: [PathMind AI](https://github.com/EdgarX202/Learning-Path-Generator) (Learning Path Generator)<br>
 &nbsp;▫️ Project 2: [CampusGraph](https://github.com/EdgarX202/Campus-Navigator-Web-App) (Campus Navigator Web App)<br>
 
