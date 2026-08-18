@@ -45,7 +45,7 @@
 <!-- PROJECTS -->
 <h3><ins>Projects</ins></h3>
 
-&nbsp;🚧 Currently working on: Financial Assistant App<br>
+&nbsp;🚧 Currently working on: [GoalDash Lite](https://github.com/EdgarX202/GoalDash-Lite) (Financial Goals App)<br>
 &nbsp;▫️ Project 1: [PathMind AI](https://github.com/EdgarX202/Learning-Path-Generator) (Learning Path Generator)<br>
 &nbsp;▫️ Project 2: [CampusGraph](https://github.com/EdgarX202/Campus-Navigator-Web-App) (Campus Navigator Web App)<br>
 
