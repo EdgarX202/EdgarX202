@@ -44,9 +44,12 @@
 <!-- FEATURES PROJECTS -->
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
+| In Development | Description | Stack |
 | :--- | :--- | :--- |
-| **[GoalDash Lite](https://github.com/EdgarX202/GoalDash-Lite)** | Financial goals tracking application for personal budgeting. | `Python` `React` `PostgreSQL` |
+| **🚧 [GoalDash Lite](https://github.com/EdgarX202/GoalDash-Lite)** | Financial goals tracking application for personal budgeting. | `Python` `React` `PostgreSQL` |
+
+| Finished Projects | Description | Stack |
+| :--- | :--- | :--- |
 | **[PathMind AI](https://github.com/EdgarX202/PathMind-AI)** | AI-driven customized learning path generator. | `Python` `React` `Flask` |
 | **[CampusGraph](https://github.com/EdgarX202/CampusGraph)** | Campus navigation web application using graph algorithms. | `Python` `React` `Flask` |
 
