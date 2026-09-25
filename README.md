@@ -39,6 +39,7 @@
 &nbsp;<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9"/>
 
 ---
 <!-- FEATURES PROJECTS -->
