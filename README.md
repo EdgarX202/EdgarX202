@@ -28,10 +28,12 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 -->
-**Databases & DevOps:** 
+**Databases:** 
 &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/> 
-<!-- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> 
+<!-- 
+**DevOps:**
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> 
 <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff"/> -->
 
