@@ -49,7 +49,7 @@
 
 | Status | Projects | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| ![](https://img.shields.io/badge/Prototype-3d6fc2?style=round&logo=<LOGO_NAME>&logoColor=white) | **[GoalDash Lite](https://github.com/EdgarX202/GoalDash-Lite)** | Financial goals tracking application for personal budgeting. | `Python` `React` `PostgreSQL` |
+| ![](https://img.shields.io/badge/Prototype-3d6fc2?style=round&logo=<LOGO_NAME>&logoColor=white) | **[GoalDash Lite](https://github.com/EdgarX202/GoalDash-Lite)** | Financial goals tracking application for personal budgeting. | `Python` `React` `SQLite` |
 | ![](https://img.shields.io/badge/Prototype-3d6fc2?style=round&logo=<LOGO_NAME>&logoColor=white) | **[PathMind AI](https://github.com/EdgarX202/PathMind-AI)** | AI-driven customized learning path generator. | `Python` `React` `Flask` |
 | ![](https://img.shields.io/badge/Prototype-3d6fc2?style=round&logo=<LOGO_NAME>&logoColor=white) | **[CampusGraph](https://github.com/EdgarX202/CampusGraph)** | Campus navigation web application using graph algorithms. | `Python` `React` `Flask` |
 
