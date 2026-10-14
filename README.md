@@ -6,9 +6,11 @@
 **Software Engineer | AI & FinTech**  
 *MSc Computing graduate focused on AI engineering, full-stack development, and financial technology.*
 
+<!--
 <a href="https://www.linkedin.com/in/edgar-park-706545b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
 </a>
+-->
 
 ---
 <!-- TECH STACK -->
